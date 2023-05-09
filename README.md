@@ -1,5 +1,5 @@
 # TaturoMovie
-Taturo's Movie: a website mern-stack about movies
+Taturo's Movie: a website mern-stack about moviesfgdfgdf
 
 <p align="center">
     <a href="https://github.com/l0ntdtn0l/Group13_MSIS207.N12.CTTT/blob/main/FE/package.json" alt="Dependencies">
